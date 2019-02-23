@@ -6,13 +6,7 @@ window.addEventListener('resize', function () {
     restoreMenu();
 
 });
-// window.addEventListener("load", function () {
-//     resize_product_img();
-//     resize_description_img();
-//     move_dropdown();
-//     var text = "This is unoficial and not comercial training copy of laboratoriumbioton.pl product webpage."
-//     alert(text);
-// });
+
 
 window.onload = function (){
     resize_product_img();
